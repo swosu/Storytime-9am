@@ -1,1 +1,2 @@
-Members: Ale, Clifford, Michael, Devin
+
+This is the master version of out story.
