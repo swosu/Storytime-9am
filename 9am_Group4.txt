@@ -2,3 +2,4 @@ Members: Ale, Clifford, Michael, Devin
 
 Once upon a time in a computer science class not so far away there were four eager students given an assignment to help them learn Git.
 The four students were unaware of a dark eclipsing presence hovering over them in the computer lab.
+Suddenly, a portal appeared above the four students, dragging them into a different dimension.
